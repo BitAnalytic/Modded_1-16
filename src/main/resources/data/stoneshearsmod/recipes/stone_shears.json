@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		" x",
+		"x "
+	],
+	"key": {
+		"x": {
+			"tag": "forge:cobblestone"
+		}
+	},
+	"result": {
+		"item": "stoneshearsmod:stone_shears",
+		"count": 1
+	}
+}
